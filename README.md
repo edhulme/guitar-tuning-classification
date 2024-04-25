@@ -42,7 +42,7 @@ The training procedure described below has only been tested on a Linux system.
 *Perform all of the steps in the Model Evaluation section before training a model*. The training procedure provided here is a simplified version of the procedure used in the *Multiclass Study* (i.e., a 5-class CNN is trained on chromagram representations of synthetic guitar audio data). Once you have trained a model you can then test it using the code and synthetic/authentic guitar data provided in the Model Evaluation section. 
 
 ### Download the training data
-The dataset used to train a 5-class chromagram model can be downloaded from [here](https://drive.google.com/drive/folders/10JnekeXtald1sqFiDKJoOfw7eIlvyJPS?usp=sharing). After the *train-sets* folder has been downloaded and unzipped, put the folder inside the *guitar-tuning-classification* directory.
+The dataset used to train a 5-class chromagram model can be downloaded from [here](https://drive.google.com/drive/folders/1gJy7CD2cFPLNiXujibc15rrqROtXH1kT?usp=sharing). After the *train-sets* folder has been downloaded and unzipped, put the folder inside the *guitar-tuning-classification* directory.
 
 ### Train Model
 Run model training on synthetic data in your local environment:
